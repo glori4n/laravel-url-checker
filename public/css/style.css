@@ -1,0 +1,12 @@
+.container-box {
+    text-align: center;
+}
+
+.dataTables_wrapper .dataTables_length select {
+    padding-right: 24px !important;
+    background-color: white !important;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    background-color: white !important;
+}
