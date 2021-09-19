@@ -15,4 +15,5 @@ This exercise consists of a challange to have a URL verifier, in a way we can re
 5. Run the php artisan key:generate command to generate a new authentication key for the project;
 6. Run the php artisan migrate command to migrate the project structure into the database;
 7. Run the php artisan queue:work command, to start the Laravel Queues service, responsible for triggering the jobs;
-8. Use some tool like Laragon, Lampp etc to run the project locally.
+8. Use some tool like Laragon, Lampp etc to run the project locally;
+9. Create a new user and start using the tool.
